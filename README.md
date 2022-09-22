@@ -4,12 +4,12 @@ A GitHub Pages Repository to showcase the apps I've made.
 # **Projects**
   ## **Dashboard Example**
     [Dashboard](https://github.com/DionJerome/dashboard-example)
-    - Template for a dashboard using React
-    - Emulates a financial dashboard
-    - Contains multiple components to display static data. 
-    - Contains navbar with notifications
-    - Leverages sidebar that uses Routes to change webpages
-    - Single Page Application
+      - Template for a dashboard using React
+      - Emulates a financial dashboard
+      - Contains multiple components to display static data. 
+      - Contains navbar with notifications
+      - Leverages sidebar that uses Routes to change webpages
+      - Single Page Application
 
   
   ## **Student Database**
