@@ -2,7 +2,7 @@
 A GitHub Pages Repository to showcase the apps I've made.
 
 # **Projects**
-  ## **Dashboard Example**\
+  ## **Dashboard Example**
     [Dashboard](https://github.com/DionJerome/dashboard-example)
     - Template for a dashboard using React
     - Emulates a financial dashboard
@@ -12,16 +12,16 @@ A GitHub Pages Repository to showcase the apps I've made.
     - Single Page Application
 
   
-  ## **Student Database**\
+  ## **Student Database**
     - Front-end & Backend app designed to manage a student's information
     
-    ## **Front-end**\
+    Front-end
       [Front-end](https://github.com/DionJerome/student-fe)
       - Contains multiple components for user interaction and data display.
       - Features stylized components using Material UI, HTML5 and CSS3.
       - Information is stored to a database by a POST to backend app.
       
-    ## **Backend**\
+    Backend
       [Backend](https://github.com/DionJerome/student-be)
       - Contains APIs and service layer to perform CRUD operations.  
       - Stores data in MySQL database using JpaRepository.  
