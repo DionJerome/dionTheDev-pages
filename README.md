@@ -23,10 +23,6 @@ A GitHub Pages Repository to showcase the apps I've made.
       
       - Features stylized components using Material UI, HTML5 and CSS3.
       
-      - Information is stored to a database
-      
-      - Leverages Axios API
-      
       
     Backend
       
