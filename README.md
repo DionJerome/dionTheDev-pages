@@ -15,15 +15,17 @@ A GitHub Pages Repository to showcase the apps I've made.
       - Single Page Application
 
   
-  **Student Database**: [Front-end](https://github.com/DionJerome/student-fe) & [Backend](https://github.com/DionJerome/student-be)
+  **Student Database**: [Frontend](https://github.com/DionJerome/student-fe) & [Backend](https://github.com/DionJerome/student-be)
     
-    Front-end
+    Frontend
       
       - Contains multiple components for user interaction and data display.
       
       - Features stylized components using Material UI, HTML5 and CSS3.
       
-      - Information is stored to a database by a POST to backend app.
+      - Information is stored to a database
+      
+      - Leverages Axios API
       
       
     Backend
